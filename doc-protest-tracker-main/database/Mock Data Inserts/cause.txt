@@ -1,0 +1,7 @@
+INSERT INTO cause (cause_id, cause_name) VALUES ('1', 'Racial Inequality');
+INSERT INTO cause (cause_id, cause_name) VALUES ('2', 'Climate Change');
+INSERT INTO cause (cause_id, cause_name) VALUES ('3', 'Political Corruption');
+INSERT INTO cause (cause_id, cause_name) VALUES ('4', 'Gender Equality');
+INSERT INTO cause (cause_id, cause_name) VALUES ('5', 'Animal Rights');
+INSERT INTO cause (cause_id, cause_name) VALUES ('6', 'Black Lives Matter');
+INSERT INTO cause (cause_id, cause_name) VALUES ('7', 'Israeli-Palestine');

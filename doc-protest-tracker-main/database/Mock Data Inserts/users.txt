@@ -1,0 +1,10 @@
+INSERT INTO users (user_id, first_name, last_name, email, country, user_type, party) VALUES ('1', 'Christen', 'Simacek', 'csimacek0@admin.ch', 'Sweden', 'Journalist', NULL);
+INSERT INTO users (user_id, first_name, last_name, email, country, user_type, party) VALUES ('2', 'Filippa', 'Irvin', 'firvin1@prnewswire.com', 'Israel', 'Journalist', NULL);
+INSERT INTO users (user_id, first_name, last_name, email, country, user_type, party) VALUES ('3', 'Gleda', 'Greenacre', 'ggreenacre2@networkadvertising.org', 'Uruguay', 'Journalist', NULL);
+INSERT INTO users (user_id, first_name, last_name, email, country, user_type, party) VALUES ('4', 'Julieta', 'Ballantine', 'jballantine3@moonfruit.com', 'Philippines', 'Politician', 'Democratic');
+INSERT INTO users (user_id, first_name, last_name, email, country, user_type, party) VALUES ('5', 'Fay', 'Sallenger', 'fsallenger4@odnoklassniki.ru', 'Finland', 'Journalist', NULL);
+INSERT INTO users (user_id, first_name, last_name, email, country, user_type, party) VALUES ('6', 'Bartel', 'Valder', 'bvalder5@1und1.de', 'Slovenia', 'Activist', NULL);
+INSERT INTO users (user_id, first_name, last_name, email, country, user_type, party) VALUES ('7', 'Lyn', 'Nuschke', 'lnuschke6@merriam-webster.com', 'Jamaica', 'Journalist', NULL);
+INSERT INTO users (user_id, first_name, last_name, email, country, user_type, party) VALUES ('8', 'Nariko', 'MacGlory', 'nmacglory7@hao123.com', 'Jamaica', 'Politician', 'Democratic');
+INSERT INTO users (user_id, first_name, last_name, email, country, user_type, party) VALUES ('9', 'Sheff', 'Baskett', 'sbaskett8@about.me', 'Costa Rica', 'Journalist', NULL);
+INSERT INTO users (user_id, first_name, last_name, email, country, user_type, party) VALUES ('10', 'Ronald', 'Davion', 'rdavion9@ibm.com', 'Poland', 'Activist', NULL);
